@@ -1,10 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋 I'm Binura Amarasinghe</h1>
 
-<p align="center">
-  <em>Data Analyst | Machine Learning | Business Analytics</em>
-</p>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+ML+Engineer;Turning+Data+into+Decisions;Time+Series+%7C+Clustering+%7C+Simulation;Python+%7C+Power+BI+%7C+XGBoost" alt="Typing SVG" />
 
 <br/>
@@ -23,7 +19,7 @@
 ```python
 binura = {
     "name"       : "Binura Amarasinghe",
-    "role"       : "Data Analyst | ML Engineer",
+    "role"       : "Data Analyst | ML Engineer | Business Analytics",
     "location"   : "Veyangoda, Sri Lanka 🇱🇰",
     "education"  : [
         "B.Sc. (Hons) IT — Data Science @ SLIIT (CGPA: 3.14)",
