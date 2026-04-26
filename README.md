@@ -6,26 +6,26 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Data Science student at **SLIIT** (B.Sc. Hons in IT specializing in Data Science)
-- 💼 Intern Data Analyst at **Mobitel Pvt Ltd**
-- 📊 Experience in **Time Series Forecasting & Revenue Modeling**
-- 🤖 Strong in **Machine Learning, Clustering & Simulation**
-- 🌍 Based in **Veyangoda, Sri Lanka**
-
----
-
-## 🧠 Key Skills
-
-- 🐍 Python (Pandas, NumPy, Scikit-learn)
-- 🤖 Machine Learning (XGBoost, Random Forest)
-- 📈 Data Analysis (PCA, Clustering, RFM)
-- 📊 Power BI | Tableau | SQL Server
+- Data Science student at **SLIIT** (B.Sc. Hons in IT specializing in Data Science)
+- Intern Data Analyst at **Mobitel Pvt Ltd**
+- Experience in **Time Series Forecasting & Revenue Modeling**
+- Strong in **Machine Learning, Clustering & Simulation**
+- Based in **Veyangoda, Sri Lanka**
 
 ---
 
-## 🛠️ Tech Stack
+## Key Skills
+
+- Python (Pandas, NumPy, Scikit-learn)
+- Machine Learning (XGBoost, Random Forest)
+- Data Analysis (PCA, Clustering, RFM)
+- Power BI | Tableau | SQL Server
+
+---
+
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -53,31 +53,31 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🔴 Sales Prediction System
+### Sales Prediction System
 > Built using **Python & Streamlit** — Forecasts product sales for Big Mart using ML models  
 > 🔗 [View on GitHub](https://github.com/tharusha01Bandara/Sales_Prediction)
 
-### 🔴 E-Commerce Recommendation System
+### E-Commerce Recommendation System
 > Hybrid **Content-Based + Collaborative Filtering** for personalized product suggestions  
 > 🔗 [View on GitHub](https://github.com/thej-k/Personalized_E-commerce_Recommendation_System)
 
-### 🔴 Olympic Data Warehouse
+### Olympic Data Warehouse
 > **SSIS, SSAS, Power BI** — Snowflake schema, ETL pipelines, OLAP cube & interactive dashboards  
 > Built for medal performance tracking with drill-through filters
 
-### 🔴 Todo App - Task Management
+### Todo App - Task Management
 > **Android Studio, Java, Firebase** — Mobile task management application  
 > 🔗 [View on GitHub](https://github.com/BinuraGH/TodoApp)
 
-### 🔴 Photographic Management System
+### Photographic Management System
 > **MERN Stack** — Full-stack web application for photography business management  
 > 🔗 [View on GitHub](https://github.com/panchaliSam/ITP-FrontEnd-Photographic-Management-System)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BinuraGH&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Binura's GitHub Stats" />
@@ -93,16 +93,16 @@
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
-- 📜 **SQL for Data Science** — Coursera
-- ☁️ **AI-102: Azure AI Engineer** — Microsoft
-- 📊 **Fundamentals of Visualization with Tableau** — Coursera
-- ☁️ **AWS Academy Graduate** — AWS Academy Cloud Foundations
+- **SQL for Data Science** — Coursera
+- **AI-102: Azure AI Engineer** — Microsoft
+- **Fundamentals of Visualization with Tableau** — Coursera
+- **AWS Academy Graduate** — AWS Academy Cloud Foundations
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/binura-amarasinghe-b7575a239" target="_blank">
@@ -122,4 +122,4 @@
   <img src="https://komarev.com/ghpvc/?username=BinuraGH&color=58a6ff&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center"><em>💡 "Turning data into decisions, one model at a time."</em></p>
+<p align="center"><em>"Turning data into decisions, one model at a time."</em></p>
