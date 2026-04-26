@@ -18,7 +18,7 @@
 
 - Data Science graduate from **SLIIT** (B.Sc. Hons in IT specializing in Data Science)
 - Intern Data Analyst @ **Mobitel Pvt Ltd** (2024–2025)
-- Dual-degree background — Physical Science + IT gives me a rare mix of mathematical rigor and engineering thinking
+- Dual-degree background — Physical Science + Data Science gives me a rare mix of mathematical rigor and engineering thinking
 - Strong in **Machine Learning, Clustering & Simulation**
 - Based in **Veyangoda, Sri Lanka**
 
@@ -87,7 +87,7 @@
 
 </div>
 
-
+---
 <div align="center">
 
 ### 💬 Let's connect and build something data-driven together!
