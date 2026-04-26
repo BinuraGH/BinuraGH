@@ -1,8 +1,7 @@
 <div align="center">
 <h1 align="center">Hi 👋 I'm Binura Amarasinghe</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+ML+Engineer;Turning+Data+into+Decisions;Time+Series+%7C+Clustering+%7C+Simulation;Python+%7C+Power+BI+%7C+XGBoost" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast%7C+ML+Engineer;Turning+Data+into+Decisions;Python+%7C+Power+BI+%7C" alt="Typing SVG" />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binura-amarasinghe-b7575a239)
