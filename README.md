@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <h1 align="center">Hi 👋 I'm Binura Amarasinghe</h1>
 
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Turning+Data+into+Decisions;Python+%7C+Power+BI" alt="Typing SVG" />
