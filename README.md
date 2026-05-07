@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋 I'm Binura Amarasinghe</h1>
 </div>
-
+<br>
 ---
 
 ## About Me
