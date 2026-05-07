@@ -1,15 +1,10 @@
 <div align="center">
+
 <h1 align="center">Hi 👋 I'm Binura Amarasinghe</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Turning+Data+into+Decisions;Python+%7C+Power+BI" alt="Typing SVG" /> 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Turning+Data+into+Decisions;Python+%7C+Power+BI" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binura-amarasinghe-b7575a239)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:binura.amarasinghe617@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BinuraGH)
-![Profile Views](https://komarev.com/ghpvc/?username=BinuraGH&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>  
+</div>
 
 ---
 
@@ -78,10 +73,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BinuraGH&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinuraGH&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=BinuraGH&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BinuraGH&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinuraGH&layout=compact&theme=github_dark&hide_border=true" />
+
+<br/><br/>
+
+<img width="60%" src="https://streak-stats.demolab.com?user=BinuraGH&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
